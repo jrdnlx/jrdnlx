@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning to be a great developer!
 - 💞️ I love to collaborate with teammates, coworkers, and mostly friends to create great projects!
 - 📫 I have a lot of projects in the pipeline... Follow me and stay tuned!
+- 😎 Add me on Pokemon Go! 4857 9097 0366
 
 <!---
 jrdnlx/jrdnlx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
