@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jordan!
-- 👀 I’m interested in video games, web development and movies!
+- 👀 I’m interested in video games, full stack development and movies!
 - 🌱 I’m currently learning to be a great developer!
 - 💞️ I love to collaborate with teammates, coworkers, and mostly friends to create great projects!
 - 📫 I have a lot of projects in the pipeline... Follow me and stay tuned!
